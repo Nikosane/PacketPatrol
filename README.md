@@ -1,7 +1,5 @@
 # PacketPatrol
 
-# Botnet Detection in Network Traffic
-
 This project aims to develop a machine learning model that can detect botnet activity in network traffic by analyzing patterns and anomalies.
 
 ## Objective
